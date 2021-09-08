@@ -1,0 +1,26 @@
+body {
+  background-color: #333;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+.friend {
+  background-color: black;
+  padding: 2rem;
+}
+
+.friend > h3 {
+  text-transform: uppercase;
+  color: #f4f4f4;
+  text-align: center;
+  padding-top: 2rem;
+}
+
+.friend > p {
+  color: #b3b3b3;
+  text-align: center;
+}
